@@ -1,2 +1,2 @@
 # MetaJRS
-※MetaJRS官网项目V1.0
+※MetaJRS工作室官网项目V1.0
